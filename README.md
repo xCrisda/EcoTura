@@ -68,9 +68,10 @@ El proyecto puede visualizarse en:
 
 Proyecto desarrollado como trabajo académico para la asignatura de **Desarrollo Formal de Software**.
 
+**Integrantes del equipo**
 - Cristian David García Valderrama
 - Luisa Fernanda Gonzalez Delgado
 - Sebastian Guapi Andrade
-- Integrantes del equipo
+
 
 ---
